@@ -1,6 +1,6 @@
 # Personal Finances-Dashboard
 
-### Dashboard Link : https://app.powerbi.com/groups/me/reports/325b463b-df6f-4d0b-86bf-29edca3ccfb2?ctid=caca9011-7b6a-44de-861f-095a2ca883b7&pbi_source=linkShare&bookmarkGuid=19b2f443-96e1-4496-a3c5-7f601f7617bb
+### Dashboard Link : https://app.powerbi.com/groups/me/reports/325b463b-df6f-4d0b-86bf-29edca3ccfb2?ctid=caca9011-7b6a-44de-861f-095a2ca883b7&pbi_source=linkShare&bookmarkGuid=51b18b10-b3cf-4f68-aa4f-0e8937d9aaa0
 
 ## Problem Statement
 
@@ -200,3 +200,9 @@ Budget for 2020 = 179,000
 1.2) In 2020, 108% of the expected balance corresponds to the profit.
 
      thus, from 2019 to 2020, grater profit was obtained.
+
+## Acknowledgements
+
+ - [Curso Power BI – Análisis de Datos y Business Intelligence](https://www.udemy.com/share/101BNu3@L5qcgx-ltZ0o4M_gAKoCVvX7cz03JRVsjoOkDYa2oirP1A95_xkIF6t34y4VDtqX8A==/)
+
+
